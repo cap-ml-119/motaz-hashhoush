@@ -1,2 +1,2 @@
 # motaz-hashhoush
-TODO list  application using Flask Framework
+TODO list application using Flask Framework .
